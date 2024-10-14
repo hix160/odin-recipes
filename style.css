@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    background-color: black;
+    height: auto;
+    width: fit-content;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+    height: auto;
+    width: fit-content;
+}
+.context {
+    color:red;
+}
+h3 {
+    color:blue
+}
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
